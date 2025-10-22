@@ -3,7 +3,7 @@ IMPARTANT: This project is the sole property of Zhiyu Chen and is submitted to t
 [Zhiyu Chen / University of Queensland]
 *************************************************************************************************************************************
 
-(https://github.com/chenzhiyu28/AI-based_Intruder_identification/blob/master/1.jpg?raw=true)
+![project poster](https://github.com/chenzhiyu28/AI-based_Intruder_identification/blob/master/1.jpg?raw=true)
 
 This is a guidance of how the software works. Note some files may not be used at all. And some 
 files are the output of the software.
